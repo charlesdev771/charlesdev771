@@ -1,6 +1,6 @@
 <h1>Hello World!</h1>
-<h2>Meu nome é Charles Dantas e sou estudante de programação e segurança da informação. Estudo atualmente no IFRN </h2>
-<h5>Amo ciência. De humanas à exatas. Atualmente estou focado no meu inglês.</h5>
+<h2>My name is Charles Dantas (ccod :) ) and I'm a student of programming, information security and machine learning. Currently studying at IFRN. </h2>
+<h5>I love science. From human to exact. I'm currently focused on machine learning.</h5>
 
 <div align="center">
   
@@ -25,7 +25,9 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" />
-
+<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
+  
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" />
 
