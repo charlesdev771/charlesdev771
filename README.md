@@ -40,7 +40,7 @@
 </div>
   
 <hr>
- <h5>fora essas tecnologias, também estudei assembly, cobol, c#, java, R, ruby, vueJS, bulmaCss e materialize.</h5>
+ <h5>Além dessas tecnologias, estudei assembly, cobol, c#, R, ruby, vueJS, bulmaCss e materialize.</h5>
 
 <div> 
  
