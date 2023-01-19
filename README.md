@@ -1,6 +1,16 @@
 <h1>Hello World!</h1>
 <h2>My name is Charles Dantas (ccod :) ) and I'm a student of programming, information security and machine learning. Currently studying at IFRN. </h2>
-<h5>I love science. From human to exact. I'm currently focused on machine learning.</h5>
+<h5>I love science. From human to exact. I'm currently focused on mobile development.</h5>
+<p> Some repositories worth looking at: </p>
+
+<ul>
+  <li>LibertPy: https://github.com/charlesdev771/LibertPy</li>
+  <li>PIU: https://github.com/charlesdev771/piu---POST-INSTALATION-UBUNTU</li>
+  <li>Red Dragon: https://github.com/charlesdev771/Red-Dragon</li>
+  <li>API products nodeJS: https://github.com/charlesdev771/Api_products_nodejs</li>
+  <li>APP Wheater: https://github.com/charlesdev771/App-Wheater-flutter</li>
+  <li>APP pomodoro: https://github.com/charlesdev771/App_pomodoro_flutter_and_mobx</li>
+</ul>
 
 <div align="center">
   
