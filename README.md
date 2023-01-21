@@ -10,6 +10,10 @@
   <li>API products nodeJS: https://github.com/charlesdev771/Api_products_nodejs</li>
   <li>APP Wheater: https://github.com/charlesdev771/App-Wheater-flutter</li>
   <li>APP pomodoro: https://github.com/charlesdev771/App_pomodoro_flutter_and_mobx</li>
+  <li>Projeto integrador APP:   https://github.com/charlesdev771/PMMA-App---projeto-integrador-IFRN-2022</li>
+  <li>Projeto integrador 2023: https://github.com/charlesdev771/PMMA_projeto_integrador_2023</li>
+  <li>Projeto prioriser 2019: https://github.com/charlesdev771/Project-prioriser</li>
+
 </ul>
 
 <div align="center">
