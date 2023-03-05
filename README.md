@@ -13,6 +13,7 @@
   <li>Projeto integrador APP:   https://github.com/charlesdev771/PMMA-App---projeto-integrador-IFRN-2022</li>
   <li>Projeto integrador 2023: https://github.com/charlesdev771/PMMA_projeto_integrador_2023</li>
   <li>Projeto prioriser 2019: https://github.com/charlesdev771/Project-prioriser</li>
+  <li>API authors DRF: https://github.com/charlesdev771/DRF_API_AUTHORS<//li>
 
 </ul>
 
