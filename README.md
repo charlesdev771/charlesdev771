@@ -1,11 +1,13 @@
 <h1>Hello World!</h1>
-<h2>My name is Charles Dantas (ccod :) ) and I'm a student of programming, information security and machine learning. Currently studying at IFRN. </h2>
-<h5>I love science. From human to exact. I'm currently focused on mobile development.</h5>
+<h2>Hello. I'm Charles Dantas. I'm a programmer, ethical hacker, and polyglot in five languages ​​:). </h2>
 <p> Some repositories worth looking at: </p>
 
 <ul>
   <li>LibertPy: https://github.com/charlesdev771/LibertPy</li>
   <li>PIU: https://github.com/charlesdev771/piu---POST-INSTALATION-UBUNTU</li>
+  <li>Complete App Flutter: https://github.com/charlesdev771/complete_app_flutter</li>
+  <li>Wlangs: https://github.com/charlesdev771/Wlangs</li>
+
   <li>Red Dragon: https://github.com/charlesdev771/Red-Dragon</li>
   <li>API products nodeJS: https://github.com/charlesdev771/Api_products_nodejs</li>
   <li>APP Wheater: https://github.com/charlesdev771/App-Wheater-flutter</li>
